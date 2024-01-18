@@ -5,12 +5,12 @@ This folder has the sample competition bundle. The steps below will show how you
 
 ### 1. Compile competiiton Bundle
 
-#### go to the competition bundle directory
+#### - go to the competition bundle directory
 ```
 cd M1-Challenge-Class-2024/Relevance/Competition_Bundle
 ```
 
-#### compile the bundle
+#### - compile the bundle
 ```
 python3 utilities/compile_bundle.py
 ```
@@ -19,11 +19,11 @@ this will create a zip file named `Relevance_Bundle.zip` in `M1-Challenge-Class-
 
 ### 2. Upload to Codabench
 
-#### 1. Codabench account
+#### - Codabench account
 
 Create a codabench account here: https://www.codabench.org/
 
-#### 2. Upload bundle
+#### - Upload bundle
 
 Upload the zipped bundle in `Benchmarks/Management` -> `Upload`
 
