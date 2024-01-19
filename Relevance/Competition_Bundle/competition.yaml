@@ -8,7 +8,7 @@ description: Relevance competition for M1 AI competition class
 image: logo.png
 has_registration: True   
 force_submission_to_leaderboard: True
-docker_image: codalab/codalab-legacy:py39
+docker_image: ihsaanullah/llm:latest
 
 terms: pages/terms.md
 pages:  

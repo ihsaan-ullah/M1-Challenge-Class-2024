@@ -50,3 +50,13 @@ provide a zipped sampled submission in the competition pages
 #### 4. Sample submission
 
 provide a starting kit to the participants
+
+
+*** 
+### Docker (Optional)
+
+Note: On Codabench a submission is run inside a docker container. We have provided a container image with pre-installed packages. If you want to install additional libraries/packages for your submissions, you may want to create your own docker image and then use it in your competition.
+
+The base image you can use is: `ihsaanullah/llm:latest`.
+
+Check this link for more details about creating a docker image: https://github.com/ihsaan-ullah/create_a_codalab_challenge?tab=readme-ov-file#docker
